@@ -1,0 +1,6 @@
+<DatabaseSettings>
+  <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
+  <ServerVersion>Sql2014</ServerVersion>
+  <ServerName>W2K12-SQL2K14-1</ServerName>
+  <DatabaseName>LiteSpeedLocal</DatabaseName>
+</DatabaseSettings>
